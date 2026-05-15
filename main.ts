@@ -220,7 +220,7 @@ app.get("/", (c) => {
   <title>Schalter Monitor</title>
 </head>
 <body>
-  <h1>Schalter Monitor (SSE) 1</h1>
+  <h1>Schalter Monitor (SSE) 2</h1>
   <pre id="log" style="background:#111;color:#0f0;padding:15px;height:90vh;overflow:auto;font-family:monospace;"></pre>
 
   <script>
