@@ -4,5 +4,9 @@
   },
   "permissions": {
     "net": true
+  },
+  "imports": {
+    "hono": "jsr:@hono/hono",
+    "hono/": "npm:/hono/"
   }
 }
