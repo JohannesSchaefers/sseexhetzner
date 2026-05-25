@@ -184,7 +184,7 @@ app.get("/events", (c) => {
     // Willkommensnachricht
     await stream.writeSSE({
       data: JSON.stringify({ 
-        value: "✅ Verbunden1", 
+        value: "✅ Verbunden", 
         timestamp: new Date().toISOString() 
       })
     });
