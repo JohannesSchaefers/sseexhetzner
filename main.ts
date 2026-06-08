@@ -132,7 +132,7 @@ body {
 </head>
 <body>
 
-<h1>Schalter Monitor</h1>
+<h1>Schalter Monitor 5</h1>
 
 <pre id="log"></pre>
 
